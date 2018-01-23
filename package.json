@@ -16,8 +16,7 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "x-iterable-utils": "^1.0.1",
-    "x-iterable-base": "^4.0.0",
+    "q": "<1.0.0",
     "simple-function-utils": ">=2.1.2 <3.0.0",
     "eslint": "^1.0.0 || >= 3.1.0 <4"
   },
