@@ -2,5 +2,8 @@
   "extends": [
     "config:base"
   ],
+  "peerDependencies": {
+    "versionStrategy": "widen"
+  },
   "prHourlyLimit": 10
 }
